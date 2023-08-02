@@ -1,0 +1,50 @@
+.question-app {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .question-container {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f8f8f8;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .timer {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+
+  .start-button {
+    width: 200px;
+    padding: 10px 20px;
+    margin-right: 100px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .next-button {
+    width: 200px;
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .next-button:hover {
+    background-color: #45a049;
+  }
+
+  .alert-color {
+    color: red;
+  }
